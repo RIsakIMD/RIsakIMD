@@ -1,4 +1,8 @@
-### Hi there 👋
+### Greetings! 👋
+
+I am a Full Stack Web Developer with a passion for software, learning and refreshing topics quickly and readily adapt into new and existing teams and codebases.
+
+Aside from Web development, I also enjoy hobby video game modding and development with C++ and C#. 
 
 <!--
 **RIsakIMD/RIsakIMD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
